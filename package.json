@@ -1,0 +1,12 @@
+{
+  "name": "json-super-basic-automatic-api",
+  "version": "1.0.0",
+  "description": "Super basic automatic API with JSON files",
+  "main": "api.js",
+  "scripts": {
+    "API": "node api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
