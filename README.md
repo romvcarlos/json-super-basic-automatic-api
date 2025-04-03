@@ -13,8 +13,8 @@ A lightweight tool for serving JSON files as API endpoints. Simply add your JSON
 
 ```
  📁 JSON
-	 📄 info.json
-	 📄 data.json
+    📄 info.json
+    📄 data.json
 ```
 
 ##### 2. Start the API server by running:
@@ -30,7 +30,7 @@ Note: The `{port}` will be automatically assigned. Check your terminal to see wh
 
 ### Example
 Fetch data from the `info.json`  file:
-```
+```bash
  curl http://localhost:{port}/info
 ```
 Expected response:
